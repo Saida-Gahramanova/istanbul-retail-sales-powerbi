@@ -46,4 +46,4 @@ Explores performance across shopping malls and payment methods.
 
 
 ## Contact
-You can connect with me on LinkedIn.
+You can connect with me on LinkedIn (https://linkedin.com/in/saidagahramanova).
